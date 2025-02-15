@@ -12,7 +12,7 @@ A user-friendly web application that translates cron expressions into human-read
 
 ## Live Demo
 
-[View Live Demo](#) <!-- Add your deployed app URL here -->
+[View Live Demo]([#](https://www.linkedin.com/posts/activity-7296489390522998784-pFNz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWqZscBEWV8asDeTIQUJv_eO7xCTNbTEIk)) <!-- Add your deployed app URL here -->
 
 ## Installation
 
